@@ -13,7 +13,9 @@ Playable Demo: [Play in Broswer](https://mray0256.itch.io/dont-croak)
 ![Hats UI](assets/screenshots/Hats-UI.png)
 
 ## Overview
-A game created for the Texas Game Jam 2025. This project was developed within 48 hours and focuses on a Mario-esque platformer with narrative elements to fit the theme.
+- A game created for the Texas Game Jam 2025. This project was developed within 48 hours and focuses on a Mario-esque platformer with narrative elements to fit the theme.
+- Won category "People's Choice"
+[Results Page](https://itch.io/jam/texas-game-jam-2025/results)
 
 ## Jam Theme
 - "Out of Time"
@@ -26,6 +28,9 @@ A game created for the Texas Game Jam 2025. This project was developed within 48
 - Engine: Unity
 - Language: C#, HLSL
 - Tools: Aseprite
+
+## Project Setup
+This repository contains the scripts from the Unity file, however does not include Prefabs, shaders, sounds, etc. to reduce bloating.
 
 ## Gameplay
 A Mario-Esque platformer in which a player has been cursed as a frog and placed in a time loop! The player must defeat an evil wizard to escape and regain their humanity.
