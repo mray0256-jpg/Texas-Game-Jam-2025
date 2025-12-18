@@ -5,6 +5,13 @@ Link: [Information Page](https://itch.io/jam/texas-game-jam-2025)
 # Don't Croak
 Playable Demo: [Play in Broswer](https://mray0256.itch.io/dont-croak)
 
+## Screenshots
+
+![Enemy Battle](assets/screenshots/Fight-1.png)
+![Dialogue UI](assets/screenshots/Dialogue-UI.png)
+![Boss Fight](assets/screenshots/Bossfight-1.png)
+![Hats UI](assets/screenshots/Hats-UI.png)
+
 ## Overview
 A game created for the Texas Game Jam 2025. This project was developed within 48 hours and focuses on a Mario-esque platformer with narrative elements to fit the theme.
 
